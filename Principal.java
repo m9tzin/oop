@@ -1,5 +1,4 @@
- /* Aluno: Matheus Sousa Marinho 
-*/
+
 public class Principal {
 
 	public static void main(String[] args) {
